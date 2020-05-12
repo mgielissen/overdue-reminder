@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 12.0-20191106\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-12 12:00+0000\n"
-"PO-Revision-Date: 2020-05-12 15:25+0200\n"
+"PO-Revision-Date: 2020-05-12 15:48+0200\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -461,7 +461,7 @@ msgstr "ID"
 #. module: account_invoice_overdue_reminder
 #: model_terms:ir.ui.view,arch_db:account_invoice_overdue_reminder.report_overdue_reminder_document
 msgid "If you made a payment for these invoices a few days ago, please ignore this letter."
-msgstr "Als u een paar dagen geleden een betaling voor deze facturen heeft gedaan, kunt u deze brief negeren."
+msgstr "Mocht uw betaling onderweg zijn, dan kunt u deze brief negeren."
 
 #. module: account_invoice_overdue_reminder
 #: code:addons/account_invoice_overdue_reminder/wizard/overdue_reminder_wizard.py:98
@@ -907,7 +907,7 @@ msgstr "Onderwerpen"
 #. module: account_invoice_overdue_reminder
 #: model_terms:ir.ui.view,arch_db:account_invoice_overdue_reminder.report_overdue_reminder_document
 msgid "Subject: Overdue invoice reminder n°"
-msgstr "Betreft: Betalingsherinnering nr"
+msgstr "Betreft: Betalingsherinnering nr "
 
 #. module: account_invoice_overdue_reminder
 #: model:ir.model.fields,field_description:account_invoice_overdue_reminder.field_overdue_reminder_action__activity_summary
