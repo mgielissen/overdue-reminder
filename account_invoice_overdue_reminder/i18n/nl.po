@@ -300,7 +300,7 @@ msgstr "Klant"
 #: code:addons/account_invoice_overdue_reminder/wizard/overdue_reminder_wizard.py:380
 #, python-format
 msgid "Customer '%s' has unreconciled payments/refunds. You should reconcile these payments/refunds and start the overdue remind process again (or check the option to confirm that these unreconciled payments/refunds have a good reason not to be reconciled with an open invoice)."
-msgstr "Klant '%s' heeft niet-afgestemde betalingen / terugbetalingen. U moet deze betalingen / terugbetalingen met elkaar verzoenen en het proces voor vervallen herinneringen opnieuw starten (of de optie aanvinken om te bevestigen dat deze niet-afgestemde betalingen / terugbetalingen een goede reden hebben om niet te worden verzoend met een openstaande factuur)."
+msgstr "Klant '%s' heeft niet-afgestemde betalingen / terugbetalingen. U moet deze betalingen / terugbetalingen met elkaar verrekenen en het proces voor vervallen herinneringen opnieuw starten (of de optie aanvinken om te bevestigen dat deze niet-afgestemde betalingen / terugbetalingen een goede reden hebben om niet te worden verrekend met een openstaande factuur)."
 
 #. module: account_invoice_overdue_reminder
 #: model:ir.model.fields,field_description:account_invoice_overdue_reminder.field_overdue_reminder_start__partner_ids
